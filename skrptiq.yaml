@@ -1,0 +1,25 @@
+# --- Identity ---
+id: "e8b20dcd-1c4e-41bd-9fb9-cb90ae53ffc1"
+name: "tone-adaptation"
+display_name: "Tone Adaptation"
+description: "Rewrites text to match a specified tone whilst preserving meaning"
+version: "1.0.0"
+engine: ">=0.1.0"
+author:
+  name: "skrptiq"
+  url: "https://hub.skrptiq.ai"
+licence: "MIT"
+repository: "https://github.com/skrpts/hub-shared-tone-adaptation"
+category: "shared"
+tags:
+  - "shared"
+  - "skill"
+contents:
+  skills: 1
+  prompts: 0
+  workflows: 0
+  services: 0
+  sources: 0
+  documents: 0
+  assets: 0
+  total: 1

@@ -2,7 +2,7 @@
 type: skill
 id: tone-adaptation
 title: Tone Adaptation
-description: "Rewrites text to match a specified tone whilst preserving meaning"
+description: "Rewrites text to match a specified tone while preserving meaning"
 tags: [Tested, Communication, Automation]
 context_params:
   target_tone:

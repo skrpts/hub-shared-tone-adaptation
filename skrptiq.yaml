@@ -2,8 +2,8 @@
 id: "8416c95b-24d6-4a35-9fd5-1b2ad6fd6772"
 name: "tone-adaptation"
 display_name: "Tone Adaptation"
-description: "Rewrites text to match a specified tone whilst preserving meaning"
-version: "1.0.2"
+description: "Rewrites text to match a specified tone while preserving meaning"
+version: "1.0.3"
 engine: ">=0.1.0"
 author:
   name: "skrptiq"
@@ -28,7 +28,7 @@ contents:
 
 security:
   status: "pass"
-  scanned_at: "2026-06-08T18:54:45.949Z"
+  scanned_at: "2026-07-16T14:49:17.947Z"
   scanner_version: "3.3.0"
   syntactic: "pass"
   structural: "pass"
